@@ -77,4 +77,4 @@ Convert into a conversational AI assistant
 
 **Author**
 
-Amrutha Shetty JS
+Amrutha Shetty
