@@ -9,7 +9,7 @@ This project enables users to explore structured conversational data through dyn
 
 **Problem**
 
-Conversational datasets—especially in sensitive domains like mental health—are often unstructured and difficult to explore. Traditional analysis methods lack interactivity and fail to capture the nuance in conversations.
+Conversational datasets, especially in sensitive domains like mental health are often unstructured and difficult to explore. Traditional analysis methods lack interactivity and fail to capture the nuance in conversations.
 
 
 **Solution**
@@ -31,9 +31,9 @@ Built a lightweight, interactive application that allows users to:
 **Key Features**
 
 1. Dynamic filtering of conversational data
-2. Conversation viewer with step-by-step navigation
+2. Conversation viewer with step by step navigation
 3. Cached data loading for performance optimization
-4. Structured taxonomy-based exploration
+4. Structured taxonomy based exploration
 
 
 **Dataset**
